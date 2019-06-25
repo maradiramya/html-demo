@@ -81,3 +81,9 @@ li a:hover{
     bottom:200px;
     margin-top: 100px;
 }
+.footer-bottom{
+    width:100%;
+    height: auto;
+margin: auto;
+padding:0px;
+}
