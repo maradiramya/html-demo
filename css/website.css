@@ -1,6 +1,9 @@
 
-header {
+.container_12 header {
     background:rgba(255, 255, 255, 0.486); 
+    position:fixed;
+    width:100%;
+    
 
 }
 body{
